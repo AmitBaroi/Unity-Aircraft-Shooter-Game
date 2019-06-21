@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: a2f90cab8a4dd454482381c89aefd15e
+timeCreated: 1532461673
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion_sheet_0
+    21300002: explosion_sheet_1
+    21300004: explosion_sheet_2
+    21300006: explosion_sheet_3
+    21300008: explosion_sheet_4
+    21300010: explosion_sheet_5
+    21300012: explosion_sheet_6
+    21300014: explosion_sheet_7
+    21300016: explosion_sheet_8
+    21300018: explosion_sheet_9
+    21300020: explosion_sheet_10
+    21300022: explosion_sheet_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: 13}
+        - {x: -17, y: -16}
+        - {x: 12, y: -16}
+        - {x: 17, y: -12}
+        - {x: 17, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 193
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: -17, y: 19}
+        - {x: -22, y: 17}
+        - {x: -22, y: -17}
+        - {x: -21, y: -19}
+        - {x: 18, y: -19}
+        - {x: 22, y: -13}
+        - {x: 22, y: 8}
+        - {x: 21, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 185
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -31, y: 11}
+        - {x: -31, y: -12}
+        - {x: -24, y: -27}
+        - {x: 24, y: -27}
+        - {x: 31, y: -26}
+        - {x: 31, y: 23}
+        - {x: 27, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -13, y: -11}
+        - {x: -9, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 135
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -21, y: 19}
+        - {x: -21, y: -20}
+        - {x: -16, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -17, y: 22}
+        - {x: -21, y: 19}
+        - {x: -21, y: -17}
+        - {x: -20, y: -22}
+        - {x: 13, y: -22}
+        - {x: 21, y: -13}
+        - {x: 21, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -10}
+        - {x: 11, y: -10}
+        - {x: 11, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 23}
+        - {x: -20, y: 23}
+        - {x: -22, y: 18}
+        - {x: -22, y: -18}
+        - {x: -16, y: -23}
+        - {x: 10, y: -23}
+        - {x: 21, y: -18}
+        - {x: 22, y: -16}
+        - {x: 22, y: 11}
+        - {x: 21, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 35}
+        - {x: -35, y: 28}
+        - {x: -35, y: -20}
+        - {x: -29, y: -35}
+        - {x: 28, y: -35}
+        - {x: 35, y: -32}
+        - {x: 35, y: 25}
+        - {x: 27, y: 35}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 12}
+        - {x: 11, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -12, y: 18}
+        - {x: -18, y: 13}
+        - {x: -18, y: -10}
+        - {x: -16, y: -18}
+        - {x: 13, y: -18}
+        - {x: 18, y: -12}
+        - {x: 18, y: 9}
+        - {x: 17, y: 13}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
